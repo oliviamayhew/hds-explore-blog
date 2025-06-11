@@ -1,5 +1,5 @@
 ---
-title: "hds-explore"
+title: "Exploring The Wonderful World Of Health Data"
 listing:
   contents: posts
   sort: "date desc"
